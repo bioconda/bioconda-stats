@@ -1,3 +1,5 @@
 subdir	total
-osx-64	5
-osx-arm64	4
+linux-64	9
+linux-aarch64	5
+osx-64	17
+osx-arm64	7
