@@ -1,0 +1,5 @@
+subdir	total
+linux-64	8
+linux-aarch64	10
+osx-64	7
+osx-arm64	8
