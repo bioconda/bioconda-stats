@@ -1,3 +1,4 @@
 subdir	total
-linux-64	83326
-noarch	66503
+linux-64	83384
+noarch	66555
+linux-aarch64	9
