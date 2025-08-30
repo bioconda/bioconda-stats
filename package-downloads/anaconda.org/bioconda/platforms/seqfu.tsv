@@ -1,6 +1,6 @@
 subdir	total
 noarch	11792
-linux-64	23486
+linux-64	23496
 osx-64	117243
 linux-aarch64	293
-osx-arm64	13
+osx-arm64	14
